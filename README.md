@@ -9,10 +9,10 @@ In our project, we have implemented several prediction models to accurately pred
 4. Logistic Regression: A statistical model that predicts the probability of a binary outcome based on one or more predictor variables.
 
 Evaluation Results
-- ANN: Accuracy - _to be filled_
 - XGBoost: Accuracy - ~98%
-- Decision Tree Classifier: Accuracy - _to be filled_
-- Logistic Regression: Accuracy - _to be filled_
+- Decision Tree Classifier: Accuracy - ~94%
+- Logistic Regression: Accuracy - ~88%
+- Gradient Boosting Classifier - ~96%
 
  Conclusion
 Based on our evaluation, the XGBoost classifier demonstrates superior performance with an accuracy of approximately 98%. Therefore, we have selected XGBoost as the primary prediction model for our disease prediction web application.
